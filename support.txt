@@ -1,0 +1,1 @@
+alarms, log metric filter, dashboard, SNS creation for app-oberservation
